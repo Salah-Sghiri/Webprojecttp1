@@ -1,0 +1,26 @@
+h3{
+    margin:3rem;
+    padding: 0;
+    color: brown;
+    font-weight: 300;
+}
+h2{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 200;
+
+}
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+span{
+    color: blue;
+    font-size: 26px;
+    font-style: oblique;
+    font-weight: 500;
+    font-family: serif;
+}
